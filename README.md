@@ -14,3 +14,4 @@ This repository contains machine learning experiments using classification and r
 3. Run each cell step by step
 
 Make sure the datasets are placed in the data/ folder or download them from the provided links.
+The datasets used in this project are included in the data/datasets
